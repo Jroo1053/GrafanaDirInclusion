@@ -1,7 +1,7 @@
 # Grafana CVE-2021-43798 Exploit Script
 
 Script to demonstrate the Grafana directory traversal exploit (CVE-2021-43798) that affects Grafana versions 8.0.0-beta1 through 8.3.0.
-Primarily used for a demonstration in a CTF. Written in python with standard library modules only. Only use this for testing and CTFs.
+Primarily used for a demonstration in a CTF. Written in python with standard library modules only. Only use this for   legitimate purposes e.g testing and CTFs please.
 
 ## Installation
 
