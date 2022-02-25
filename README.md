@@ -5,8 +5,9 @@ Primarily used for a demonstration in a CTF. Written in python with standard lib
 
 ## Installation
 
-
-
+``` bash
+wget https://raw.githubusercontent.com/Jroo1053/GrafanaDirInclusion/master/exploit.py
+```
 ## Usage
 
 ```bash
