@@ -1,5 +1,5 @@
 import unittest
-import exploit
+from src import exploit
 
 
 class TestScript(unittest.TestCase):

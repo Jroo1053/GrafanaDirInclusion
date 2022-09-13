@@ -3,5 +3,6 @@ python:
   - "3.9"
 install:
   - pip install -r requirements.txt
+env: PYTHONPATH="${PYTHONPATH}/test:$TRAVIS_BUILD_DIR/src"
 script:
   - pytest
